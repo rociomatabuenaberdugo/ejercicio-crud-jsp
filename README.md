@@ -28,5 +28,7 @@
 
   En ésta ventana se mostraría las distintas opciones de la página web:
   
-    * <b>Registro.</b> Ésta página llevará a una ventana de registro en la que se le solicitará datos al usuario a cambio de poder acceder al resto de opciones del menú inicial.
+    * <b>Registro.</b> Ésta página llevará a una ventana de registro en la que se le solicitará datos al usuario a cambio de poder acceder
+    al resto de opciones del menú inicial.
+    
     * <b>Familia cartas.</b>
