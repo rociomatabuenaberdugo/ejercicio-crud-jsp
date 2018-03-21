@@ -31,11 +31,11 @@
   * <b>¡Regístrate!</b> Ésta botón llevará a una ventana de registro en la que se le solicitará datos al usuario a cambio de poder
   acceder al botón de "Entrar como usuario".
     
-  * <b>Entrar como usuario.</b> Éste botón llevará a una ventana con dos opciones (una vez haberse logeado de forma correcta), que serán
-  ver las últimas novedades o las cartas que posee el usuario.
+  * <b>Entrar como usuario.</b> Éste botón llevará a una ventana con dos opciones que serán ver las últimas novedades o las cartas que
+  posee el usuario.
   
-  * <b>Entrar como administrador.</b> Éste botón llevará a una ventana con cuatro opciones (una vez haberse logeado de forma correcta),
-  que serán: ver las últimas novedades, el CRUD de usuarios, el CRUD de cartas o el CRUD de Familias de cartas.
+  * <b>Entrar como administrador.</b> Éste botón llevará a una ventana con cuatro opciones que serán: ver las últimas novedades, el CRUD
+  de usuarios, el CRUD de cartas o el CRUD de Familias de cartas.
   
   * <b>Novedades.</b> Éste botón llevará a una ventana con todas las novedades de la página web "Mundo Cartas".
   
@@ -47,3 +47,5 @@
   
   <img src=./Imágenes/registrate.JPG>
   <img src=./Imágenes/registrate2.JPG>
+
+### Entrar como usuario
