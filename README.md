@@ -10,6 +10,8 @@
 
   En éste ejercicio hay tres tablas principales:
 
-  * <b>Familia cartas.</b> Ésta tabla presenta a qué colección de cartas pertenece las cartas de los usuarios.
+  * <b>Familia cartas.</b> Ésta tabla guarda las distintas tipos de colecciones a las cuales puede pertenecer las cartas de los usuarios.
 
-  *
+  * <b>Cartas.</b> Ésta tabla recopila las cartas introducidas por el usuario, es decir, las cartas que tiene el usuario.
+  
+  * <b>Usuario.</b> Ésta tabla recopila las información básica de los distintos usuarios.  
