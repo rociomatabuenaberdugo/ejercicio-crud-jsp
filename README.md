@@ -40,3 +40,9 @@
   * <b>Novedades.</b> Éste botón llevará a una ventana con todas las novedades de la página web "Mundo Cartas".
   
   <img src=./Imágenes/Index.JPG>
+
+### ¡Regístrate!
+
+  Ésta página se basa en un formulario, el cual una vez rellenado sus campos, introduce al usuario en la base de datos.
+  
+  <img src=./Imágenes/registrate.JPG>
