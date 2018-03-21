@@ -46,3 +46,4 @@
   Ésta página se basa en un formulario, el cual una vez rellenado sus campos, introduce al usuario en la base de datos.
   
   <img src=./Imágenes/registrate.JPG>
+  <img src=./Imágenes/registrate2.JPG>
