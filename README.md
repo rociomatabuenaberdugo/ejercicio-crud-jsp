@@ -15,5 +15,7 @@
   * <b>Cartas.</b> Ésta tabla recopila las cartas introducidas por el usuario, es decir, las cartas que tiene el usuario.
   
   * <b>Usuario.</b> Ésta tabla recopila las información básica de los distintos usuarios.  
+  
+  Después, una cuarta tabla aparece (<b>cartasusuario</b>) debido a que la relación de Cartas a Usuario es un muchos a muchos.
 
 <img src=./Imágenes/Relaciones.JPG>
