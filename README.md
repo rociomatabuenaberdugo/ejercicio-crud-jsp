@@ -5,3 +5,11 @@
 # Temática de la Practica
 
   Para este ejercicio, la temática sera la gestión de usuarios y las cartas coleccionables que tengan éstos.
+
+# Diseño de la Base de Datos
+
+  En éste ejercicio hay tres tablas principales:
+
+  *<b>Familia cartas.</b> Ésta tabla presenta a qué colección de cartas pertenece las cartas de los usuarios.
+
+  *
