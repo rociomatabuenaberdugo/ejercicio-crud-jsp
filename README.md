@@ -16,6 +16,17 @@
   
   * <b>Usuario.</b> Ésta tabla recopila las información básica de los distintos usuarios.  
   
-  Después, una cuarta tabla aparece (<b>cartasusuario</b>) debido a que la relación de Cartas a Usuario es un muchos a muchos.
+  Después, una cuarta tabla aparece (<b>cartasusuario</b>) debido a que la relación de Cartas a Usuario es una de "muchos a muchos".
 
 <img src=./Imágenes/Relaciones.JPG>
+
+# Diseño de las páginas JSP
+
+  Este ejercicio presenta <b>seis</b> páginas principales:
+  
+### Menú inicial
+
+  En ésta ventana se mostraría las distintas opciones de la página web:
+  
+    * <b>Registro.</b> Ésta página llevará a una ventana de registro en la que se le solicitará datos al usuario a cambio de poder acceder al resto de opciones del menú inicial.
+    * <b>Familia cartas.</b>
