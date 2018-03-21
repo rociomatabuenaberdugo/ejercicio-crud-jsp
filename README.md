@@ -10,6 +10,6 @@
 
   En éste ejercicio hay tres tablas principales:
 
-  *<b>Familia cartas.</b> Ésta tabla presenta a qué colección de cartas pertenece las cartas de los usuarios.
+  * <b>Familia cartas.</b> Ésta tabla presenta a qué colección de cartas pertenece las cartas de los usuarios.
 
   *
