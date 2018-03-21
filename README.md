@@ -15,3 +15,5 @@
   * <b>Cartas.</b> Ésta tabla recopila las cartas introducidas por el usuario, es decir, las cartas que tiene el usuario.
   
   * <b>Usuario.</b> Ésta tabla recopila las información básica de los distintos usuarios.  
+
+<img src=./Imágenes/Relaciones.JPG>
