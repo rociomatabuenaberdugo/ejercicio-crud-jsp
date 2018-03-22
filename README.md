@@ -31,13 +31,10 @@
   * <b>¡Regístrate!</b> Ésta botón llevará a una ventana de registro en la que se le solicitará datos al usuario a cambio de poder
   acceder al botón de "Entrar como usuario".
     
-  * <b>Entrar como usuario.</b> Éste botón llevará a una ventana con dos opciones que serán ver las últimas novedades o todas las cartas
+  * <b>Entrar como usuario.</b> Éste botón llevará a una ventana con la opción de ver todas las cartas
   disponibles para coleccionar.
   
-  * <b>Entrar como administrador.</b> Éste botón llevará a una ventana con cuatro opciones que serán: ver las últimas novedades, el CRUD
-  de usuarios, el CRUD de cartas o el CRUD de Familias de cartas.
-  
-  * <b>Novedades.</b> Éste botón llevará a una ventana con todas las novedades de la página web "Mundo Cartas".
+  * <b>Entrar como administrador.</b> Éste botón llevará a una ventana con la opción de editar el CRUD de usuarios.
   
   <img src=./Imágenes/Index.JPG>
 
@@ -54,3 +51,10 @@
 
   <img src=./Imágenes/iniciasesion.JPG>
   <img src=./Imágenes/menuUsu.JPG>
+
+### Entrar como administrador
+
+  Tras iniciar sesión de forma correcta (éste intermedio se mejorará en un futuro), se accede al menú de administrador.
+  
+  <img src=./Imágenes/iniciasesion.JPG>
+  <img src=./Imágenes/menuAdmin.JPG>
