@@ -49,3 +49,8 @@
   <img src=./Imágenes/registrate2.JPG>
 
 ### Entrar como usuario
+
+  Tras iniciar sesión de forma correcta (éste intermedio se mejorará en un futuro), se accede al menú de usuario.
+
+  <img src=./Imágenes/iniciasesion.JPG>
+  <img src=./Imágenes/menuUsu.JPG>
