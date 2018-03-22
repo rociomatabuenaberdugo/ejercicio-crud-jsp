@@ -13,14 +13,14 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
-    <title>Mundo Cartas - Rocío Matabuena Berdugo</title>
+    <title>Bienvenido, usuario</title>
   </head>
 
   <body>
 		<div class="container">
 			<br><br>			
       <div class="panel panel-primary">
-        <div class="panel-heading text-center"><h2>¡Bienvenido a Mundo Cartas!</h2></div>
+        <div class="panel-heading text-center">¡Bienvenido!</div>
         <%
       Class.forName("com.mysql.jdbc.Driver");
         %>
@@ -28,24 +28,30 @@
         <table class="table table-striped">
           <tr>
             <th>
-              <a href="altaUsu.jsp" class="btn btn-primary">
+              <a href="CRUDUsu.jsp" class="btn btn-primary">
                 <span class="glyphicon glyphicon-home"></span>
-                ¡Regístrate!
+                CRUD usuarios
+              </a>
+            </th>
+            <!-- 
+            <th>
+              <a href="CRUDCar.jsp" class="btn btn-primary">
+                <span class="glyphicon glyphicon-home"></span>
+                  CRUD cartas
               </a>
             </th>
             <th>
-              <a href="inicioSesionUsuario.jsp" class="btn btn-primary">
+             <a href="colecUsu.jsp" class="btn btn-primary">
                 <span class="glyphicon glyphicon-home"></span>
-                Entrar como usuario
+                  CRUD familia de cartas
               </a>
-            </th>
+            </th>            
             <th>
-              <a href="menuAdmin.jsp" class="btn btn-primary">
+              <a href="index.jsp" class="btn btn-primary">
                 <span class="glyphicon glyphicon-home"></span>
-                Entrar como administrador
+                Vuelve al menú principal
               </a>
             </th>
-            <!--
             <th>
               <a href="menuNEWS.jsp" class="btn btn-primary">
                 <span class="glyphicon glyphicon-home"></span>
@@ -64,6 +70,8 @@
     </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js">
+      
+    </script>
   </body>
 </html>
