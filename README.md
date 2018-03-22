@@ -60,3 +60,10 @@
   <img src=./Imágenes/iniciasesion.JPG>
   <img src=./Imágenes/menuAdmin.JPG>
   <img src=./Imágenes/CRUDUsu.JPG>
+
+
+# Próximos avances
+
+  En un futuro se añadirán mejoras, entre ellos el cambio de estilos de la página web.
+  También se añadirán más opciones a "Entrar como usuario" y a la opción de "Entrar como administrador", además de implementarse una
+  nueva opción en el index llamada "Novedades", en la que se podrá mostrar todas las novedades de la página web "Mundo Cartas"
